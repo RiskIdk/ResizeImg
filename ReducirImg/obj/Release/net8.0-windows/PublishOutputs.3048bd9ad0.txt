@@ -1,0 +1,5 @@
+C:\Users\Soporte.TI\Downloads\ReducirImg.exe
+C:\Users\Soporte.TI\Downloads\ReducirImg.dll
+C:\Users\Soporte.TI\Downloads\ReducirImg.deps.json
+C:\Users\Soporte.TI\Downloads\ReducirImg.runtimeconfig.json
+C:\Users\Soporte.TI\Downloads\ReducirImg.pdb

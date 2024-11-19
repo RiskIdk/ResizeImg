@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Company>Aretina S.A</Company>
+    <PackageIcon>aretina.png</PackageIcon>
+    <ApplicationIcon>photo-photography-image-picture_108525.ico</ApplicationIcon>
+    <Product>Reducir Imagen</Product>
+    <SignAssembly>True</SignAssembly>
+    <Copyright>Aretina S.A</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="photo-photography-image-picture_108525.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\aretina.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

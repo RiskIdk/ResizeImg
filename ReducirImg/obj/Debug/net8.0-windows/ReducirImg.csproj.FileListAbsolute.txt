@@ -1,0 +1,16 @@
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\bin\Debug\net8.0-windows\ReducirImg.exe
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\bin\Debug\net8.0-windows\ReducirImg.deps.json
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\bin\Debug\net8.0-windows\ReducirImg.runtimeconfig.json
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\bin\Debug\net8.0-windows\ReducirImg.dll
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\bin\Debug\net8.0-windows\ReducirImg.pdb
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\obj\Debug\net8.0-windows\ReducirImg.Form1.resources
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\obj\Debug\net8.0-windows\ReducirImg.csproj.GenerateResource.cache
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\obj\Debug\net8.0-windows\ReducirImg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\obj\Debug\net8.0-windows\ReducirImg.AssemblyInfoInputs.cache
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\obj\Debug\net8.0-windows\ReducirImg.AssemblyInfo.cs
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\obj\Debug\net8.0-windows\ReducirImg.csproj.CoreCompileInputs.cache
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\obj\Debug\net8.0-windows\ReducirImg.dll
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\obj\Debug\net8.0-windows\refint\ReducirImg.dll
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\obj\Debug\net8.0-windows\ReducirImg.pdb
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\obj\Debug\net8.0-windows\ReducirImg.genruntimeconfig.cache
+C:\Users\Soporte.TI\source\repos\ReducirImg\ReducirImg\obj\Debug\net8.0-windows\ref\ReducirImg.dll
